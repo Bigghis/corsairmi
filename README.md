@@ -1,7 +1,7 @@
 corsaiRMi
 =========
 Minimal program for Linux to read monitoring information out of Corsair RMi and HXi series of PSUs. Uses Linux HIDRAW interface.
-Tested on Corsair RM650i, RM750i and HX1000i.
+Tested on Corsair RM650i, RM750i, HX1000i and HX1500i.
 
 Compiling
 ---------
